@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Perso\\PlannerATM\\PlannerATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAEDBC6-2B0E-4A9B-BA43-BCA82CFABE43}|PlannerATM.Core\\PlannerATM.Core.csproj|d:\\projects\\perso\\planneratm\\planneratm\\planneratm.core\\planneratm.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FBAEDBC6-2B0E-4A9B-BA43-BCA82CFABE43}|PlannerATM.Core\\PlannerATM.Core.csproj|solutionrelative:planneratm.core\\planneratm.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19201BA6-3A74-4CEB-B130-E3304886DB53}|PlannerATM.UnitTests\\PlannerATM.UnitTests.csproj|d:\\projects\\perso\\planneratm\\planneratm\\planneratm.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19201BA6-3A74-4CEB-B130-E3304886DB53}|PlannerATM.UnitTests\\PlannerATM.UnitTests.csproj|solutionrelative:planneratm.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlannerATM.Core",
+              "DocumentMoniker": "D:\\Projects\\Perso\\PlannerATM\\PlannerATM\\PlannerATM.Core\\PlannerATM.Core.csproj",
+              "RelativeDocumentMoniker": "PlannerATM.Core\\PlannerATM.Core.csproj",
+              "ToolTip": "D:\\Projects\\Perso\\PlannerATM\\PlannerATM\\PlannerATM.Core\\PlannerATM.Core.csproj",
+              "RelativeToolTip": "PlannerATM.Core\\PlannerATM.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T22:39:59.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\Perso\\PlannerATM\\PlannerATM\\PlannerATM.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PlannerATM.UnitTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\Perso\\PlannerATM\\PlannerATM\\PlannerATM.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "PlannerATM.UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T22:39:48.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

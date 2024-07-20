@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PlannerATM.API.props" />
+</Project>
