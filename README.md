@@ -19,3 +19,10 @@ Features potentielles:
 Et pourquoi pas:
   - Permettre l'upload de vidéo
   - Upload de document
+
+Technologies:
+  - Vite
+  - React 18
+  - .NET 8
+  - Docker
+  - Supasbase
